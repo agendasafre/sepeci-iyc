@@ -30,7 +30,7 @@
       id: "ipu-central",
       name: 'IPU - Colegio Central Universitario "Mariano Moreno"',
     },
-    { id: "otra", name: "Otra" },
+    { id: "otra-unidad-academica", name: "Otra" },
   ];
 
   if (globalScope) {
